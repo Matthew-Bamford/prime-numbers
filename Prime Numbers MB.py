@@ -1,5 +1,3 @@
-#Written by Matthew Bamford for Raytheon interview
-
 def soloution1():
     lower = 1
     upper = 100
